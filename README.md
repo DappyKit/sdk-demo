@@ -1,5 +1,7 @@
 # DappyKit SDK Demo
 
+Demo: [https://sdk-demo.dappykit.org/](https://sdk-demo.dappykit.org/)
+
 ## Available Scripts
 
 In the project directory, you can run:
