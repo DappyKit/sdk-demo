@@ -1,0 +1,8 @@
+.disabled-content {
+    pointer-events: none; /* Disable mouse interactions */
+    opacity: 0.6;        /* Optional: make the content look "disabled" */
+}
+
+.disabled-content .btn {
+    cursor: not-allowed; /* Change cursor to indicate disabled state */
+}
